@@ -1,13 +1,4 @@
 
-                      html, body, div {
-                          margin: 0;
-                          padding: 0;
-                          border: 0;
-                      }
-
-html, body {
-    width: 100%;
-}
 .flex {
     display: flex;
     border: 1px solid gray;
